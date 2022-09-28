@@ -1,0 +1,4 @@
+.weather-app.active {
+  color: black;
+  cursor: default;
+}
